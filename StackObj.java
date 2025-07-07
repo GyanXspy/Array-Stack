@@ -13,6 +13,7 @@ public class StackObj {
         s.pop();
         s.pop();
         s.Display();
+        system.out.println(Complete);
 
     }
 }
